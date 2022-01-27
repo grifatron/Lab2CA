@@ -7,8 +7,7 @@ Vreilog Lite 20.1
 Modelsim/Altera
 
 ### Images
-
-A scrrenshot of the modelsim simulation of the code
+A scrrenshot of the modelsim simulation of the code is included in the repository
 
 ### Sources
 The basic structure in verilog was given by professor Naher in Computer Architecture
